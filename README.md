@@ -9,3 +9,6 @@ Hi im arash university student who love linux & learning new things
 
 > [!Warning]
 > Wash your hands before opening repos
+
+> [!Note]
+> Give me a star if you like any of this projects
