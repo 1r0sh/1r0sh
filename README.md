@@ -1,5 +1,5 @@
 ```
-Hi im arash university student who love linux & learning new things
+Hi there im arash university student who love linux & learning new things
 ```
 <div align="center">
   
